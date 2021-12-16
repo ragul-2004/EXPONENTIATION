@@ -19,8 +19,8 @@ def exponent(x):
 x=int(input())
 exponent(x)
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by: Ragul A C
+RegisterNumber: 21500141
 ```
 
 ## Output:
