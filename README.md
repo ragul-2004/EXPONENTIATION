@@ -24,7 +24,7 @@ RegisterNumber: 21500141
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](expo.jpg)
 
 
 ## Result:
