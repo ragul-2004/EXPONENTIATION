@@ -13,11 +13,14 @@ To write a program to find the exponentiation of a number.
 
 ## Program:
 ```
-/*
+def exponent(x):
+    exp=x**2
+    print("Exponentiation of a given number:",exp)
+x=int(input())
+exponent(x)
 Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
-*/
 ```
 
 ## Output:
